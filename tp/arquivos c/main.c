@@ -1,8 +1,11 @@
+//Milena Santana, 21.1.4175
+
 #include <stdio.h>
 #include <stdlib.h>
 
 int main()
 {
-    printf("Hello world!\n");
+    menuPrincipal();
+
     return 0;
 }
