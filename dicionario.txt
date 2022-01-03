@@ -1,0 +1,7 @@
+12 10
+5
+casa
+torno
+trem
+zero
+janta
