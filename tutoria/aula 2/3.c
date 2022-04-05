@@ -8,17 +8,22 @@ receba essa variável e determine se ela é uma consoante ou não.*/
 
 #include <stdio.h>
 
-int main() {
+//funcao
+int consoante();
 
-    //variavel
-    char letra; 
-
-    printf("Caro usuario, informe uma letra para saber se ela e uma consoante: \n");
-    scanf("%c", &letra);
+int main(){
+    consoante();
+}
 
 
-    switch (letra)
-    {
+int consoante(){
+  char letra;
+
+  printf("Informe uma letra para saber se ela e consoante\n");
+  scanf("%c", &letra);
+
+   switch (letra){
+
     case 'a':
     case 'A':
     case 'e':
@@ -31,9 +36,8 @@ int main() {
     case 'U': 
         printf("Nao\n");
         break;
-    
     default:
     printf("Sim\n");
         break;
     }
-}
+  }
