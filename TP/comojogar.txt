@@ -1,0 +1,11 @@
+SOBRE O JOGO:
+
+Trata-se de uma pequena caixa quadrada, com 15 espaços cobertos por quinze peças também quadradas, que contem números, figuras ou desenhos, 
+e um espaço vazio para que se possa movimentá-las. 
+As peças devem ser ordenadas na caixa em seqüência,deslocando-se as peças ocupando o espaço vazio, 
+fazendo quantos movimentos quiser sem retirá-las da caixa, colocando-as na ordem e deixando o 16° quadradinho vazio
+
+OBJETIVO:
+
+Ordenar os quadrados, da esquerda para a direita e de cima para baixo, isto é, 
+obter a disposição original dos contadores depois de terem sido aleatoriamente deslocados.
